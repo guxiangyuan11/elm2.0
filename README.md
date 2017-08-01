@@ -27,4 +27,4 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 基于VUE1.0升级成2.0版本的一个重置项目，利用了flex布局，vue2.0,vue-router,CSS3,HTML5构建的一个手机APP商家模块
